@@ -1,0 +1,8 @@
+E:\Проекты Visual\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Проекты Visual\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Проекты Visual\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Проекты Visual\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Проекты Visual\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\Проекты Visual\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Проекты Visual\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Проекты Visual\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
